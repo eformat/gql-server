@@ -1,0 +1,4 @@
+.idea
+gql-server.iml
+package-lock.json
+node_modules
